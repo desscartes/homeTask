@@ -12,4 +12,4 @@ You can find; how to run this script on your platforms below step by step
 
 
 # Known Limitations/Bugs
-This script developed for create numbers minimum 0 to maximum 10. Limitations could be change  in other versions.
+This script is developed for create numbers minimum 0 to maximum 10. Limitations could be change  in other versions.
