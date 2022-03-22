@@ -3,7 +3,7 @@ This script creates and print unique numbers from 0-10 in random order.
 
 # Build Instructions
 This script developed with bash programming.Generally, if conditions and while loop are used in the script.
-Variables, loops and conditions used are described with explanation lines on the code..
+Variables, loops and conditions used are described with explanation lines on the code.
 New functions can be added to the script in next developments. One of the new functions will be for the users to enter the maximum and minimum random number generation limits themself.
 # How-To Use
 You can find to how to run this script on your platforms below step by step
